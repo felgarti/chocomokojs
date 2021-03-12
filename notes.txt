@@ -1,0 +1,10 @@
+ejs-layouts : allows u to use the layouts like
+ <%-contentFor('header')%> 
+ blabla
+ =>
+ <%-header%> will render blabla
+  git init 
+  create .gitignore file 
+  put the node modules , dotenv in it 
+  git add . 
+   git commit -m "chocomoko"
